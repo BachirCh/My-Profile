@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 body{
     margin: 16px 32px;
     background: #F3F4F6;
@@ -33,6 +36,13 @@ body{
     background: #F1F5F9;
 }
 
+.btn-primary:focus{
+    transform: translate(-8px,8px);
+    box-shadow: none;
+    transition: all 0.1s ease-in-out;
+
+}
+
 #logo{
     display: flex;
     flex-direction: row;
@@ -51,7 +61,7 @@ body{
 #logo-img{
     width: 48px;
     height: 48px;
-    border-radius: 12px;
+    border-radius: 6px;
 }
 
 #img-banner{
@@ -62,8 +72,7 @@ body{
 }
 
 h1{
-    width: 286px;
-    height: 80px;
+
     font-family: 'DM Serif Display';
     font-style: normal;
     font-weight: 400;
@@ -84,12 +93,30 @@ h2{
     margin: 0;
 }
 
+h3{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    color: #1F2937;
+    margin: 0;
+}
+
+h3{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #1F2937;
+    margin: 0;
+}
+
 p{
     font-family: 'DM Sans';
     font-style: normal;
     font-weight: 400;
-    font-size: 32px;
-    line-height: 48px;
+    font-size: 20px;
+    line-height: 40px;
     /* or 150% */
     color: #4B5563;
     margin: 0;
@@ -106,7 +133,6 @@ p{
     display: flex;
     flex-direction: row;
     gap: 32px;
-    width: 1126px;
     margin: 0 auto;
 }
 
@@ -116,7 +142,6 @@ p{
     align-items: flex-start;
     gap: 32px;
     margin: 72px auto;
-    width: 1126px;
 }
 .group-tags{
     display: flex;
@@ -142,4 +167,18 @@ p{
     letter-spacing: -0.01em;
 
     color: #1F2937;
+}
+
+.container{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.small-text{
+    font-family: 'DM Sans';
+    font-size: 16px;
+    font-style: normal;
+    color: #1F2937;
+    line-height: 28px;
+    font-weight: 100;
 }
