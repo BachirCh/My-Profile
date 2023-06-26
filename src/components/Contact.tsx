@@ -1,4 +1,4 @@
-import { Center, Flex, Image, Text } from "@chakra-ui/react";
+import { Center, Flex, Text } from "@chakra-ui/react";
 import { EmailIcon, PhoneIcon } from "@chakra-ui/icons";
 import LinkedinIcon from "../assets/Linkedin.tsx";
 
