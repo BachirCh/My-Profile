@@ -10,20 +10,11 @@ html{
   scroll-behavior: smooth;
 }
 
-html:not([data-scroll='0']) {
-  .my-navbar {
-    filter: drop-shadow(0 4px 3px rgb(0 0 0 / 0.07)) drop-shadow(0 2px 2px rgb(0 0 0 / 0.06));
-  }
+html:not([data-scroll='0']) #top-page {
 
-  #top-page{
     display: block;
 
-  }
 } 
-
-.my-navbar {
-  filter: drop-shadow(0 1px 1px rgb(0 0 0 / 0.05));
-}
 
 #top-page{
   display: none;

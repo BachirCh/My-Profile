@@ -18,7 +18,7 @@ import { ButtonPrimary, ButtonSecondary } from "./Button";
 function App() {
   return (
     <div className="bg-lightest" id="top-page">
-      <div className="my-navbar flex sticky top-0 px-6 md:px-20 justify-between py-2 bg-lightest z-10">
+      <div className="my-navbar flex sticky top-0 px-6 md:px-20 justify-between py-2 bg-lightest drop-shadow-md z-10">
         <img src={logo} alt="logo" className="h-12" />
         <ButtonSecondary text="Contact" to="#contact"/>
       </div>
@@ -105,7 +105,7 @@ function App() {
   </div>
         </div>
       </div>
-      <a href="#top-page" className="flex fixed bottom-8 right-8 w-16 h-16 bg-darkest text-white items-center justify-center rounded-full drop-shadow-lg hover:drop-shadow-xl hover:bg-opacity-90" id="top"><Up/></a>
+      <a href="#top-page" className="flex fixed bottom-8 right-8 w-16 h-16 bg-darkest text-white items-center justify-center rounded-full drop-shadow-lg hover:drop-shadow-2xl hover:bg-opacity-90" id="top"><Up/></a>
     </div>
   );
 }
