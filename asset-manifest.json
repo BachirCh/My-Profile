@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.a60a85ca.css",
-    "main.js": "/react-gh-pages/static/js/main.b5a7228d.js",
+    "main.css": "/react-gh-pages/static/css/main.8582aafa.css",
+    "main.js": "/react-gh-pages/static/js/main.ad60e6f3.js",
     "static/js/787.789e768e.chunk.js": "/react-gh-pages/static/js/787.789e768e.chunk.js",
     "static/media/bachir3.png": "/react-gh-pages/static/media/bachir3.d1787c30988fd52c9e00.png",
     "static/media/Alloavocat01.png": "/react-gh-pages/static/media/Alloavocat01.5d5b34961bee5753d2f8.png",
@@ -16,12 +16,12 @@
     "static/media/Deskshore02.png": "/react-gh-pages/static/media/Deskshore02.ffcbde9ecf03d1a8225b.png",
     "static/media/Deskshore01.png": "/react-gh-pages/static/media/Deskshore01.9ea030d60da36b004e09.png",
     "index.html": "/react-gh-pages/index.html",
-    "main.a60a85ca.css.map": "/react-gh-pages/static/css/main.a60a85ca.css.map",
-    "main.b5a7228d.js.map": "/react-gh-pages/static/js/main.b5a7228d.js.map",
+    "main.8582aafa.css.map": "/react-gh-pages/static/css/main.8582aafa.css.map",
+    "main.ad60e6f3.js.map": "/react-gh-pages/static/js/main.ad60e6f3.js.map",
     "787.789e768e.chunk.js.map": "/react-gh-pages/static/js/787.789e768e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a60a85ca.css",
-    "static/js/main.b5a7228d.js"
+    "static/css/main.8582aafa.css",
+    "static/js/main.ad60e6f3.js"
   ]
 }
