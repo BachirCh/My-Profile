@@ -10,8 +10,8 @@ export function Phone() {
       <path
         d="M20.7408 26.4036L23.3055 23.8389C23.6481 23.4963 24.1871 23.4486 24.5846 23.7258L28.1353 26.2023C28.6459 26.5584 28.7106 27.2894 28.2704 27.7296L27.8841 28.1159C27.1739 28.8261 26.1547 29.1338 25.1986 28.826C23.1336 28.1613 19.3767 26.6179 16.2618 23.503C13.1468 20.388 11.6034 16.6311 10.9387 14.5661C10.6309 13.61 10.9386 12.5908 11.6489 11.8806L12.0351 11.4943C12.4753 11.0541 13.2063 11.1188 13.5624 11.6294L16.0389 15.1801C16.3161 15.5776 16.2684 16.1166 15.9258 16.4593L13.3611 19.0239"
         stroke="#3D55CC"
-        stroke-width="2"
-        stroke-linecap="round"
+        strokeWidth="2"
+        strokeLinecap="round"
       />
     </svg>
   );
@@ -49,28 +49,28 @@ export function Mail() {
         width="20"
         height="14"
         stroke="#3D55CC"
-        stroke-width="2"
-        stroke-linecap="round"
+        strokeWidth="2"
+        strokeLinecap="round"
       />
       <path
         d="M10 13L20 22L30 13"
         stroke="#3D55CC"
-        stroke-width="2"
-        stroke-linecap="round"
+        strokeWidth="2"
+        strokeLinecap="round"
       />
       <path
         d="M10 27L16.5 19.5"
         stroke="#3D55CC"
-        stroke-width="2"
-        stroke-linecap="round"
+        strokeWidth="2"
+        strokeLinecap="round"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M30 27L23 19L30 27Z"
         stroke="#3D55CC"
-        stroke-width="2"
-        stroke-linecap="round"
+        strokeWidth="2"
+        strokeLinecap="round"
       />
     </svg>
   );
@@ -79,8 +79,8 @@ export function Mail() {
 export function Up() {
   return (
     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M12 21L12 3" stroke="#FFF" stroke-width="2" stroke-linecap="round"/>
-    <path d="M18 9L12 3L6 9" stroke="#FFF" stroke-width="2" stroke-linecap="round"/>
+    <path d="M12 21L12 3" stroke="#FFF" strokeWidth="2" strokeLinecap="round"/>
+    <path d="M18 9L12 3L6 9" stroke="#FFF" strokeWidth="2" strokeLinecap="round"/>
     </svg>
     
   );
