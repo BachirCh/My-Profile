@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.7ececf73.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/bachir.png": "/portfolio/static/media/bachir.b422cd4ef71db452b7df.png",
-    "static/media/Alloavocat01.png": "/portfolio/static/media/Alloavocat01.5d5b34961bee5753d2f8.png",
-    "static/media/Gpggranit01.png": "/portfolio/static/media/Gpggranit01.a39506ae4116812ceb83.png",
-    "static/media/Gpggranit03.png": "/portfolio/static/media/Gpggranit03.d055707bf61d513b4049.png",
-    "static/media/Gpggranit02.png": "/portfolio/static/media/Gpggranit02.6ec1072ed2ecb9a35387.png",
-    "static/media/Smartclean01.png": "/portfolio/static/media/Smartclean01.37787a5dc7029418460c.png",
-    "static/media/Smartclean02.png": "/portfolio/static/media/Smartclean02.0bede7168ec2be4d8a07.png",
-    "static/media/Alloavocat02.png": "/portfolio/static/media/Alloavocat02.1bfcdd4200f39edcf43e.png",
-    "static/media/Smartclean03.png": "/portfolio/static/media/Smartclean03.5ddf4179f1facfe876ba.png",
-    "static/media/Deskshore03.png": "/portfolio/static/media/Deskshore03.b6d7f37f901b06e769e3.png",
-    "static/media/Deskshore02.png": "/portfolio/static/media/Deskshore02.ffcbde9ecf03d1a8225b.png",
-    "static/media/Deskshore01.png": "/portfolio/static/media/Deskshore01.9ea030d60da36b004e09.png",
-    "index.html": "/portfolio/index.html",
-    "main.7ececf73.js.map": "/portfolio/static/js/main.7ececf73.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/react-gh-pages/static/css/main.a60a85ca.css",
+    "main.js": "/react-gh-pages/static/js/main.b5a7228d.js",
+    "static/js/787.789e768e.chunk.js": "/react-gh-pages/static/js/787.789e768e.chunk.js",
+    "static/media/bachir3.png": "/react-gh-pages/static/media/bachir3.d1787c30988fd52c9e00.png",
+    "static/media/Alloavocat01.png": "/react-gh-pages/static/media/Alloavocat01.5d5b34961bee5753d2f8.png",
+    "static/media/Gpggranit01.png": "/react-gh-pages/static/media/Gpggranit01.a39506ae4116812ceb83.png",
+    "static/media/Gpggranit03.png": "/react-gh-pages/static/media/Gpggranit03.d055707bf61d513b4049.png",
+    "static/media/Gpggranit02.png": "/react-gh-pages/static/media/Gpggranit02.6ec1072ed2ecb9a35387.png",
+    "static/media/Smartclean01.png": "/react-gh-pages/static/media/Smartclean01.37787a5dc7029418460c.png",
+    "static/media/Smartclean02.png": "/react-gh-pages/static/media/Smartclean02.0bede7168ec2be4d8a07.png",
+    "static/media/Alloavocat02.png": "/react-gh-pages/static/media/Alloavocat02.1bfcdd4200f39edcf43e.png",
+    "static/media/Smartclean03.png": "/react-gh-pages/static/media/Smartclean03.5ddf4179f1facfe876ba.png",
+    "static/media/Deskshore03.png": "/react-gh-pages/static/media/Deskshore03.b6d7f37f901b06e769e3.png",
+    "static/media/Deskshore02.png": "/react-gh-pages/static/media/Deskshore02.ffcbde9ecf03d1a8225b.png",
+    "static/media/Deskshore01.png": "/react-gh-pages/static/media/Deskshore01.9ea030d60da36b004e09.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.a60a85ca.css.map": "/react-gh-pages/static/css/main.a60a85ca.css.map",
+    "main.b5a7228d.js.map": "/react-gh-pages/static/js/main.b5a7228d.js.map",
+    "787.789e768e.chunk.js.map": "/react-gh-pages/static/js/787.789e768e.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.7ececf73.js"
+    "static/css/main.a60a85ca.css",
+    "static/js/main.b5a7228d.js"
   ]
 }
