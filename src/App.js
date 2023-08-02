@@ -22,8 +22,8 @@ function App() {
         <img src={logo} alt="logo" className="h-12" />
         <ButtonSecondary text="Contact" to="#contact"/>
       </div>
-      <div className="flex flex-col bg-lightest gap-6 pe-0 items-center md:flex-row w-full">
-        <div className="flex flex-col gap-4 md:w-1/2 py-12 px-6 md:px-20">
+      <div className="flex flex-col bg-lightest pe-0 items-center md:flex-row w-full justify-between">
+        <div className="flex flex-col gap-4 py-12 px-6 md:px-20">
           <h3 className="">Hi, I'm a UX designer from Casablanca</h3>
           <p>I'm passionate about UI design and design systems</p>
           <div className="flex flex-col md:flex-row gap-4">
@@ -31,9 +31,7 @@ function App() {
             <ButtonSecondary text="See projects" to="#projects" />
           </div>
         </div>
-        <div className="w-full">
-        <img src={bachir3} alt="logo" className="object-contain" />
-        </div>
+        <img src={bachir3} alt="logo" className="object-contain h-96" />
       </div>
       <div className="flex flex-col bg-white gap-6 px-6 py-12 md:px-20 md:flex-row justify-between" id="projects">
         <div className="md:sticky md:top-20 h-full md:w-1/2">
