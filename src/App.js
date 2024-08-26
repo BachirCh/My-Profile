@@ -19,7 +19,7 @@ import { ButtonPrimary, ButtonSecondary } from "./Button";
 function App() {
   useEffect(() => {
     // Redirect to www.example.com when the app is loaded
-    window.location.href = 'https://www.example.com';
+    window.location.href = 'https://bachircherrat.com';
   }, []);
 
   return null;
